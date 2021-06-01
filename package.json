@@ -26,6 +26,6 @@
     "url": "https://github.com/Richou/react-native-android-location-enabler/issues"
   },
   "peerDependencies": {
-    "react-native": ">= 0.60.0"
+    "react-native": ">= 0.59.5"
   }
 }
